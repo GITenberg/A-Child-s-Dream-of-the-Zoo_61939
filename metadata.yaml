@@ -1,11 +1,16 @@
 _repo: A-Child-s-Dream-of-the-Zoo_61939
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61939-h/images/cover.jpg
 creator:
   author:
     agent_name: Manning, William
     gutenberg_agent_id: '51688'
     url: http://www.gutenberg.org/2009/agents/51688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61939#A-Child-s-Dream-of-the-Zoo
 gutenberg_issued: '2020-04-26'
 gutenberg_type: Text
 identifiers:
